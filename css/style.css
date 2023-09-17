@@ -375,17 +375,17 @@ footer .footer-dua {
     flex-direction: column;
     align-items: center;
     background-color: #ffffff;
-    z-index: -1;
     transform: translateX(100%);
     transition: all 1s;
     opacity: 0;
     color: #ffffff;
-    z-index: 899;
+    z-index: -1;
   }
 
   nav ul.nyala {
     transform: translateX(0);
     opacity: 1;
+    z-index: 899;
   }
   main .container-landing {
     flex-direction: column;
