@@ -193,6 +193,7 @@ aside {
   border-radius: 10px;
   flex-flow: column;
   height: 470px;
+  scroll-margin-top: 80px;
 }
 .avatar {
   display: flex;
