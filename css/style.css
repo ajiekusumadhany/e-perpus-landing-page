@@ -287,6 +287,7 @@ aside button a:hover {
 footer {
   margin-top: 100px;
   width: 100%;
+  margin-bottom: 0;
 }
 .footer-satu {
   width: 100%;
