@@ -287,7 +287,6 @@ aside button a:hover {
 footer {
   margin-top: 100px;
   width: 100%;
-  margin-bottom: 0;
 }
 .footer-satu {
   width: 100%;
@@ -370,7 +369,7 @@ footer .footer-dua {
     position: absolute;
     right: 0;
     top: -20px;
-    width: 50%;
+    width: 60%;
     height: 100vh;
     flex-direction: column;
     align-items: center;
